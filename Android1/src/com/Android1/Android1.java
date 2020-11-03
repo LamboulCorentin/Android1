@@ -16,6 +16,7 @@ public class Android1 extends Activity
         /* Create a TextView and set its text to "Hello world" */
         TextView  tv = new TextView(this);
         tv.setText("Hello World!");
+        tv.setText("Hello c'est raph");
         setContentView(tv);
     }
 }
